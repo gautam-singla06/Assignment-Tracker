@@ -1,0 +1,15 @@
+2026/03/27-18:50:26.957 1698 Reusing MANIFEST C:\Users\gauta\AppData\Local\Google\Chrome\User Data\Default\WebStorage\7\IndexedDB\indexeddb.leveldb/MANIFEST-000001
+2026/03/27-18:50:26.958 1698 Recovering log #4
+2026/03/27-18:50:26.965 1698 Reusing old log C:\Users\gauta\AppData\Local\Google\Chrome\User Data\Default\WebStorage\7\IndexedDB\indexeddb.leveldb/000004.log 
+2026/03/27-19:00:33.775 1698 Level-0 table #8: started
+2026/03/27-19:00:33.789 1698 Level-0 table #8: 396407 bytes OK
+2026/03/27-19:00:33.793 1698 Delete type=0 #4
+2026/03/27-19:00:33.795 1698 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2026/03/27-19:00:33.795 5354 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x00\x00\xc8\x0b\x00S\x00W\x00H\x00e\x00a\x00l\x00t\x00h\x00L\x00o\x00g' @ 484 : 1
+2026/03/27-19:00:33.796 5354 Compacting 1@1 + 1@2 files
+2026/03/27-19:00:33.811 5354 Generated table #9@1: 105 keys, 17064 bytes
+2026/03/27-19:00:33.811 5354 Compacted 1@1 + 1@2 files => 17064 bytes
+2026/03/27-19:00:33.813 5354 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/03/27-19:00:33.814 5354 Delete type=2 #5
+2026/03/27-19:00:33.814 5354 Delete type=2 #8
+2026/03/27-19:00:33.817 1698 Manual compaction at level-1 from '\x00\x03\x00\x00\xc8\x0b\x00S\x00W\x00H\x00e\x00a\x00l\x00t\x00h\x00L\x00o\x00g' @ 484 : 1 .. (end); will stop at (end)
