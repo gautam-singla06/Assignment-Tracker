@@ -44,37 +44,6 @@ Assignment-Tracker/
 
 ---
 
-## 🚀 Installation
-
-### Clone Repository
-
-```bash
-git clone https://github.com/YOUR_USERNAME/Assignment-Tracker.git
-cd Assignment-Tracker
-```
-
-### Create Virtual Environment
-
-```bash
-python -m venv .venv
-```
-
-### Activate Environment
-
-Windows:
-
-```bash
-.venv\Scripts\activate
-```
-
-### Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
 ## 🔧 Configuration
 
 Edit:
