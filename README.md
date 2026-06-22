@@ -144,7 +144,7 @@ Users are responsible for complying with their institution's policies and platfo
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Dev
 
 **Gautam Singla**
 
