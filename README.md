@@ -146,6 +146,6 @@ Users are responsible for complying with their institution's policies and platfo
 
 ## 👨‍💻 Author
 
-**Gautam**
+**Gautam Singla**
 
 Built to automate assignment tracking and reduce manual checking effort.
