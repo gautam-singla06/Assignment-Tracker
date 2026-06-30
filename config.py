@@ -14,7 +14,7 @@ ASSIGNMENTS_FILE = BASE_DIR / "assignments.json"
 
 # iCloudEMS pages used by the scraper.
 ICLOUDEMS_HOME_URL = "https://mrei.icloudems.com/"
-WHATSAPP_PHONE_NUMBER = "9185878887XX"
+WHATSAPP_PHONE_NUMBER = "91858788XXXX"
 
 
 # Selenium wait times. Increase these if your internet or portal is slow.
