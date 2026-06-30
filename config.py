@@ -7,6 +7,7 @@ from pathlib import Path
 
 
 # Project folder and local files.
+
 BASE_DIR = Path(__file__).resolve().parent
 ASSIGNMENTS_FILE = BASE_DIR / "assignments.json"
 
