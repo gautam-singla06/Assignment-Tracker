@@ -148,6 +148,7 @@ def main():
     except RuntimeError as error:
         # Friendly message for expected first-run login/session setup problems.
 
+
         # The scraper now treats the student dashboard as a completed login.
         print(f"\n{error}")
 
