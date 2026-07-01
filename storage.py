@@ -15,6 +15,7 @@ def load_assignments():
         data = json.load(file)
 
     # Older versions may store just a list. This project intentionally keeps
+
     # assignments.json as a simple list because it is easy to read while learning.
     if isinstance(data, list):
         return data
